@@ -20,6 +20,8 @@ For a typical Kochava Consent integration, you need only include the Core and Co
 
 * [KochavaCore](https://github.com/Kochava/iOS-StaticLibrary-KochavaCore) 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kochava/iOS-StaticLibrary-KochavaCore?include_prereleases)
+* [KochavaUI](https://github.com/Kochava/iOS-StaticLibrary-KochavaUI) 
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kochava/iOS-StaticLibrary-KochavaUI?include_prereleases)
 
 ## Installation
 
